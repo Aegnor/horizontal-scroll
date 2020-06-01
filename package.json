@@ -1,0 +1,27 @@
+{
+  "name": "scroll",
+  "version": "1.0.0",
+  "description": "just a horizontal scroll",
+  "private": true,
+  "scripts": {
+    "start": "parcel ./src/*.html",
+    "watch": "parcel watch ./src/*.html",
+    "open": "parcel serve ./src/*.html",
+    "build": "parcel build ./src/*.html"
+  },
+  "keywords": [],
+  "author": "SBRSV <12alexman@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "auto-bind": "^4.0.0",
+    "babel-polyfill": "^6.26.0",
+    "gsap": "^3.2.6",
+    "jquery": "^3.5.1",
+    "normalize-wheel": "^1.0.1",
+    "normalize.css": "^8.0.1",
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "sass": "^1.26.5"
+  }
+}
