@@ -42,3 +42,6 @@ dist
 
 # Parcel Bundler
 .cache
+
+# Images Forlder
+./src/images
