@@ -17,7 +17,6 @@
   "repository": "https://github.com/SBRSV/HRZSC",
   "license": "ISC",
   "dependencies": {
-    "auto-bind": "^4.0.0",
     "babel-polyfill": "^6.26.0",
     "gsap": "^3.2.6",
     "jquery": "^3.5.1",
